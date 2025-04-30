@@ -1,4 +1,3 @@
-
 # Array dalam Pemrograman
 
 **Array** adalah kumpulan item dengan tipe variabel yang sama yang disimpan di lokasi memori yang berdekatan.  
